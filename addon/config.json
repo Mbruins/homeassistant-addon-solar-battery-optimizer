@@ -1,0 +1,11 @@
+{
+  "latitude": 52.0607,
+  "longitude": 4.2886,
+  "forecast_days": 2,
+  "tibber_token": "YOUR_TIBBER_API_TOKEN",
+  "battery_entities": ["sensor.marstek_battery1_soc", "sensor.marstek_battery2_soc"],
+  "envoy_entity": "sensor.envoy_overview_power",
+  "solar_panel_entity": "sensor.envoy_solar_production",
+  "night_start": "22:00",
+  "night_end": "06:00"
+}
